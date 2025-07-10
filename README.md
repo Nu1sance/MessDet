@@ -1,6 +1,6 @@
 # Measuring the Impact of Rotation Equivariance on Aerial Object Detection (ICCV 2025)
 
-Authors: [Xiuyu Wu](https://github.com/Nu1sance), Xinhao Wang, Xiubin Zhu, Lan Yang, Jiyuan Liu, Xingchen Hu*.
+Authors: [Xiuyu Wu](https://github.com/Nu1sance), [Xinhao Wang](https://github.com/wxh0121), Xiubin Zhu, Lan Yang, Jiyuan Liu, Xingchen Hu*.
 
 *: Corresponding author.
 
@@ -30,12 +30,12 @@ mim install "mmcv==2.0.1"
 mim install "mmdet==3.0.0"
 
 git clone https://github.com/Nu1sance/MessDet
-cd messdet
+cd MessDet
 pip install -r requirements/albu.txt
 mim install -v -e .
 ```
 
-## Pretrained Backbone
+## Models and Pretrained Backbone
 We will release them shortly.
 
 ## Usage
