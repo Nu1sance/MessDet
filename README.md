@@ -35,7 +35,7 @@ pip install -r requirements/albu.txt
 mim install -v -e .
 ```
 
-## Pretraining Backbone
+## Pretrained Backbone
 We will release them shortly.
 
 ## Usage
