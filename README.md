@@ -1,6 +1,6 @@
 # Measuring the Impact of Rotation Equivariance on Aerial Object Detection (ICCV 2025)
 
-Authors: [Xiuyu Wu](https://github.com/Nu1sance), [Xinhao Wang](https://github.com/wxh0121), Xiubin Zhu, Lan Yang, Jiyuan Liu, Xingchen Hu*.
+Authors: [Xiuyu Wu](https://github.com/Nu1sance), [Xinhao Wang](https://github.com/wxh0121), Xiubin Zhu, Lan Yang, [Jiyuan Liu](https://liujiyuan13.github.io/), Xingchen Hu*.
 
 *: Corresponding author.
 
