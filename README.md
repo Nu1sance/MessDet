@@ -38,23 +38,23 @@ mim install -v -e .
 ## Models and Pretrained Backbones
 ### Pretrained Backbones
 
-Appr. MessDet backbone: GoogleDrive/[BaiduCloud](https://pan.baidu.com/s/162NgoL3VtPpCz9GQGjJA4A?pwd=72dj)
+Appr. RE-CSPNeXt: [GoogleDrive](https://drive.google.com/file/d/1J8EulR5CUljk8-Uc5k7LMNMD84le6dwm/view?usp=sharing) / [BaiduCloud](https://pan.baidu.com/s/162NgoL3VtPpCz9GQGjJA4A?pwd=72dj)
 
-Str. MessDet backbone: GoogleDrive/[BaiduCloud](https://pan.baidu.com/s/1wiGYDRlHJe6DGdm8ZupFJw?pwd=ftdh)
+Str. RE-CSPNeXt: [GoogleDrive](https://drive.google.com/file/d/1RgXEbaMPtTheSTVgNh2DvQgydDknK4b4/view?usp=sharing) / [BaiduCloud](https://pan.baidu.com/s/1wiGYDRlHJe6DGdm8ZupFJw?pwd=ftdh)
 
 ### Models on DOTA-v1.0
 
-|     Model     |  mAP  |                            Config                            |                           Download                           |
-| :-----------: | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Appr. MessDet | 78.45 | [messdet_appr_4xb2-36e_dota](https://github.com/Nu1sance/MessDet/blob/main/configs/messdet/messdet_appr_4xb2-36e_dota.py) | GoogleDrive/[BaiduCloud](https://pan.baidu.com/s/1lRBxl3-8ETvnxpqKgbvmOw?pwd=awn7) |
-| Str. MessDet  | 79.12 | [messdet_str_4xb2-36e_dota](https://github.com/Nu1sance/MessDet/blob/main/configs/messdet/messdet_str_4xb2-36e_dota.py) | GoogleDrive/[BaiduCloud](https://pan.baidu.com/s/1unU0fhGh99BtJw5rvA-tpg?pwd=6zn7) |
+|     Model     |  mAP  |                            Config                            |                                                                                  Download                                                                                  |
+| :-----------: | :---: | :----------------------------------------------------------: |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Appr. MessDet | 78.45 | [messdet_appr_4xb2-36e_dota](https://github.com/Nu1sance/MessDet/blob/main/configs/messdet/messdet_appr_4xb2-36e_dota.py) | [GoogleDrive](https://drive.google.com/file/d/1w-Q2ZS1z7iRaTqkpvnaodX_-wDgyyYL5/view?usp=sharing) / [BaiduCloud](https://pan.baidu.com/s/1lRBxl3-8ETvnxpqKgbvmOw?pwd=awn7) |
+| Str. MessDet  | 79.12 | [messdet_str_4xb2-36e_dota](https://github.com/Nu1sance/MessDet/blob/main/configs/messdet/messdet_str_4xb2-36e_dota.py) | [GoogleDrive](https://drive.google.com/file/d/1KvoDLuII3lGTn9aOe1X73ef_u_pMYmsU/view?usp=sharing) / [BaiduCloud](https://pan.baidu.com/s/1unU0fhGh99BtJw5rvA-tpg?pwd=6zn7) |
 
 ### Models on DOTA-v1.5
 
-|     Model     |  mAP  |                            Config                            |                           Download                           |
-| :-----------: | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Appr. MessDet | 72.38 | [messdet_appr_4xb2-36e_dota15](https://github.com/Nu1sance/MessDet/blob/main/configs/messdet/messdet_appr_4xb2-36e_dota15.py) | GoogleDrive/[BaiduCloud](https://pan.baidu.com/s/1L8b0rc-nMucoTi5GdgmUYA?pwd=b6ie) |
-| Str. MessDet  | 73.14 | [messdet_str_4xb2-36e_dota15](https://github.com/Nu1sance/MessDet/blob/main/configs/messdet/messdet_str_4xb2-36e_dota15.py) | GoogleDrive/[BaiduCloud](https://pan.baidu.com/s/1TaU46Ga8O5YRQZiyL8tMPA?pwd=ih46) |
+|     Model     |  mAP  |                            Config                            |                                                                                  Download                                                                                  |
+| :-----------: | :---: | :----------------------------------------------------------: |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Appr. MessDet | 72.38 | [messdet_appr_4xb2-36e_dota15](https://github.com/Nu1sance/MessDet/blob/main/configs/messdet/messdet_appr_4xb2-36e_dota15.py) | [GoogleDrive](https://drive.google.com/file/d/1W92Xrg2y6xCVNeomSKQRVxMMnNNh_jSG/view?usp=sharing) / [BaiduCloud](https://pan.baidu.com/s/1L8b0rc-nMucoTi5GdgmUYA?pwd=b6ie) |
+| Str. MessDet  | 73.14 | [messdet_str_4xb2-36e_dota15](https://github.com/Nu1sance/MessDet/blob/main/configs/messdet/messdet_str_4xb2-36e_dota15.py) | [GoogleDrive](https://drive.google.com/file/d/1pCTV8Aq-QIIJu0MdynGGsuxunD4u8oxc/view?usp=sharing) / [BaiduCloud](https://pan.baidu.com/s/1TaU46Ga8O5YRQZiyL8tMPA?pwd=ih46) |
 
 
 
