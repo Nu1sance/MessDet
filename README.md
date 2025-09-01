@@ -35,8 +35,28 @@ pip install -r requirements/albu.txt
 mim install -v -e .
 ```
 
-## Models and Pretrained Backbone
-We will release them shortly.
+## Models and Pretrained Backbones
+### Pretrained Backbones
+
+Appr. MessDet backbone: GoogleDrive/[BaiduCloud](https://pan.baidu.com/s/162NgoL3VtPpCz9GQGjJA4A?pwd=72dj)
+
+Str. MessDet backbone: GoogleDrive/[BaiduCloud](https://pan.baidu.com/s/1wiGYDRlHJe6DGdm8ZupFJw?pwd=ftdh)
+
+### Models on DOTA-v1.0
+
+|     Model     |  mAP  |                            Config                            |                           Download                           |
+| :-----------: | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Appr. MessDet | 78.45 | [messdet_appr_4xb2-36e_dota](https://github.com/Nu1sance/MessDet/blob/main/configs/messdet/messdet_appr_4xb2-36e_dota.py) | GoogleDrive/[BaiduCloud](https://pan.baidu.com/s/1lRBxl3-8ETvnxpqKgbvmOw?pwd=awn7) |
+| Str. MessDet  | 79.12 | [messdet_str_4xb2-36e_dota](https://github.com/Nu1sance/MessDet/blob/main/configs/messdet/messdet_str_4xb2-36e_dota.py) | GoogleDrive/[BaiduCloud](https://pan.baidu.com/s/1unU0fhGh99BtJw5rvA-tpg?pwd=6zn7) |
+
+### Models on DOTA-v1.5
+
+|     Model     |  mAP  |                            Config                            |                           Download                           |
+| :-----------: | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Appr. MessDet | 72.38 | [messdet_appr_4xb2-36e_dota15](https://github.com/Nu1sance/MessDet/blob/main/configs/messdet/messdet_appr_4xb2-36e_dota15.py) | GoogleDrive/[BaiduCloud](https://pan.baidu.com/s/1L8b0rc-nMucoTi5GdgmUYA?pwd=b6ie) |
+| Str. MessDet  | 73.14 | [messdet_str_4xb2-36e_dota15](https://github.com/Nu1sance/MessDet/blob/main/configs/messdet/messdet_str_4xb2-36e_dota15.py) | GoogleDrive/[BaiduCloud](https://pan.baidu.com/s/1TaU46Ga8O5YRQZiyL8tMPA?pwd=ih46) |
+
+
 
 ## Usage
 Please refer to the official [MMYOLO](https://mmyolo.readthedocs.io/en/latest/) documentation for detailed information, including essential instructions on training, testing, and more.
