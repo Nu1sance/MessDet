@@ -117,6 +117,7 @@ docs/modelzoo_statistics.md
 mmyolo/.mim
 output/
 outputs/
+tmp/
 checkpoints/
 work_dirs/
 yolov5-6.1/
