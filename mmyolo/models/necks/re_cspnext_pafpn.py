@@ -111,11 +111,12 @@ class RECSPNeXtPAFPN(BaseYOLONeck):
 
     def build_upsample_layer(self, idx: int, *args, **kwargs) -> nn.Module:
         """build upsample layer."""
-        # return nn.Upsample(**self.upsample_cfg)
+        feat_2 = int(512 * self.widen_factor)
+        feat_1 = int(256 * self.widen_factor)
         if idx == 2:
-            return ennInterpolate(512, **self.upsample_cfg)
+            return ennInterpolate(feat_2, **self.upsample_cfg)
         if idx == 1:
-            return ennInterpolate(256, **self.upsample_cfg)
+            return ennInterpolate(feat_1, **self.upsample_cfg)
         else:
             raise NotImplementedError
 
