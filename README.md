@@ -67,5 +67,7 @@ In addition, we provide a script to verify strict rotation equivariance, located
 
 Our code is based on [MMYOLO](https://github.com/open-mmlab/mmyolo), [MMRotate](https://github.com/open-mmlab/mmrotate), and [ReDet](https://github.com/csuhan/ReDet). We sincerely appreciate their outstanding contributions.
 
+The training-performance study in [docs/README.md](docs/README.md) — profiling, root-cause analysis of the `InnerBatchNorm` and He-init bottlenecks, and the accompanying benchmarks — was carried out with the assistance of [Claude](https://claude.com/claude-code) (Anthropic).
+
 ## Contact
 If you have any questions, please feel free to contact us at [xiuyuwu@stu.xidian.edu.cn](mailto:xiuyuwu@stu.xidian.edu.cn). We would be more than happy to assist you!
